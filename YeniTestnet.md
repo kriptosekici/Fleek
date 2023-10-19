@@ -25,10 +25,10 @@
 > user ekleyin
 ```console
 # sinanEngin yazan yerleri değişin.
-adduser kriptosekici
-usermod -aG sudo kriptosekici
-su kriptosekici
-cd /home/kriptosekici
+adduser arn
+usermod -aG sudo arn
+su arn
+cd /home/arn
 ```
 
 <h1 align="center"> Kurulum </h1>
